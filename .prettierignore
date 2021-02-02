@@ -1,0 +1,13 @@
+/config    
+/node_modules
+/scripts
+/tsconfig.json
+/package.json
+/yarn.lock
+/yarn-error.log
+/README.md
+/README.en.md
+/.prettierrc
+/.prettierignore
+/.babelrc
+/src/configure

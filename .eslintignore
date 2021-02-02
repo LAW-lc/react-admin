@@ -1,0 +1,17 @@
+/config    
+/node_modules
+/scripts
+/tsconfig.json
+/yarn.lock
+/yarn-error.log
+/README.md
+/README.en.md
+/.prettierrc
+/.prettierignore
+/.babelrc
+/public
+/src/configure
+/tsconfig.json
+/package.json
+/config-overrides.js
+/postcss.config.js
